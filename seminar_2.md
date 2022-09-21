@@ -49,3 +49,26 @@ Git - это одна из реализаций распределённых с�
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
 ***
+
+# Добавление картинок
+
+Команда для добавление **картинки** выглядит так:
+
+## Первая картинка
+![Котопес](https://illustrators.ru/uploads/illustration/image/1591222/62EF3273-56C3-4446-B678-53F39C31202E.png)
+
+## Вторая картинка
+![Песокот](pesokot.png)
+
+## Вторая картинка
+![Кот_и_пес](https://funart.pro/uploads/posts/2021-07/1625872233_14-funart-pro-p-kotopes-zhivotnoe-zhivotnie-krasivo-foto-15.jpg)
+
+## Добавление ссылок
+
+[Работа с Markdown](https://lifehacker.ru/chto-takoe-markdown/)
+
+[Базовый синтаксис Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Основные команды GIT](https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B/)
+
+***
